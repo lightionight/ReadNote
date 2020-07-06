@@ -1,2 +1,2 @@
-* > _look&feel 和GameFeel 的定义?_
+* > *look&feel 和GameFeel 的定义?*
 * > 赋予角色有特点的动作表达,更有利于塑造角色类型与性格
